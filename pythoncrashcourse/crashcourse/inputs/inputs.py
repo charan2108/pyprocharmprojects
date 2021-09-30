@@ -1,0 +1,5 @@
+name  =input("Enter your name\n")
+age   =int(input("Enter age\n"))
+city  =input("Enter city\n")
+email =input("Enter email\n")
+print(f"your name is {name} \n and age is{age} \n and city is{city}\n and email is {email}\n")
